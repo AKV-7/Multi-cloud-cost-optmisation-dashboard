@@ -389,27 +389,11 @@ We use:
 - 🏗️ [Architecture Guide](docs/architecture.md)
 - 🔧 [Configuration Reference](docs/configuration.md)
 - 📊 [Dashboard Gallery](docs/dashboard-gallery.md)
-
-## 📄 License
-
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
-
+ 
 ## 🙏 Acknowledgments
 
 - **FinOps Foundation** for the FOCUS™ specification
 - **Apache Software Foundation** for Superset and Pinot
 - **Cloud providers** for their cost management APIs
 - **Open source community** for continuous contributions
-
-## 📞 Support
-
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/AKV-7/Multi-cloud-cost-optmisation-dashboard/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/AKV-7/Multi-cloud-cost-optmisation-dashboard/discussions)
-- 📧 **Email**: support@finops-dashboard.com
-- 📚 **Documentation**: [Wiki](https://github.com/AKV-7/Multi-cloud-cost-optmisation-dashboard/wiki)
-
----
-
-⭐ **Star this repository** if you find it helpful!
-
-🔄 **Follow** for updates on new features and releases!
+ 
